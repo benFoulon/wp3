@@ -1,3 +1,5 @@
+## Chemin d'accés au fichier demandé : wp3/wp-content/themes/custom-theme/
+
 ## Prérequis
 
 - MariaDB
